@@ -1,0 +1,26 @@
+{
+  "name": "server-deployment-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyp-401-advanced-javascript/server-deployment-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyp-401-advanced-javascript/server-deployment-practice/issues"
+  },
+  "homepage": "https://github.com/jeremyp-401-advanced-javascript/server-deployment-practice#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "jet": "^0.6.6-0"
+  }
+}
